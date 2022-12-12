@@ -1,0 +1,90 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    text-shadow: 2px 2px 2px;
+    }
+    
+
+    input[type=button]{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-pink{
+	background-color:pink;
+}
+
+.container{
+    border:1px solid black;
+    width: 30%;
+    height: 550px;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 2rem;
+    background-color: #1e3d59;
+    text-shadow: 1px 1px 1px;
+    box-shadow: 10px 10px 10px  #1e3d59;
+    
+}
+#task{
+   margin-left:13%;
+   margin-top: 10%;
+   margin-bottom: 5%;
+   width: 50%;
+   border-radius: 2rem;
+   padding: 0.5rem;
+   border:#1e3d59;
+   margin-right: 2%;
+   text-align: center;
+   font-size: medium;
+}
+.btn{
+    
+    border-radius: 2rem;
+    padding: 0.5rem;
+    border:#1e3d59;
+    margin-left: 1%;
+    margin-right: 0%;
+    font-weight: bold;
+    font-size: medium;
+    
+    
+}
+.list{
+ 
+ margin-top: 5%;
+ margin-left:15%;
+ margin-right:10%;
+ margin-top: 2%;
+ font-size: larger;
+ color:#1e3d59;
+ background-color: #f5f0e1;
+ border-radius:20px;
+ list-style-type: none;
+ text-align: center;
+ padding: 1%;
+ box-sizing: border-box;
+}
+
+#text{
+    margin-right:35%;
+  
+}
+.btn1{
+    
+    background-color: #1e3d59;
+    width: 25%;
+    /* margin-right: 0%; */
+
+}
+.btn1:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px #1e3d59;
+}
+
+#btn:hover{
+    box-shadow:5px 5px 5px lightblue ;
+    cursor: pointer;
+}
